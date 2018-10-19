@@ -1,0 +1,51 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC01,Total; Estimate; Total population
+HC01_MOE_VC01,Total; Margin of Error; Total population
+HC02_EST_VC01,Male; Estimate; Total population
+HC02_MOE_VC01,Male; Margin of Error; Total population
+HC03_EST_VC01,Female; Estimate; Total population
+HC03_MOE_VC01,Female; Margin of Error; Total population
+HC01_EST_VC35,Total; Estimate; SUMMARY INDICATORS - Median age (years)
+HC01_MOE_VC35,Total; Margin of Error; SUMMARY INDICATORS - Median age (years)
+HC02_EST_VC35,Male; Estimate; SUMMARY INDICATORS - Median age (years)
+HC02_MOE_VC35,Male; Margin of Error; SUMMARY INDICATORS - Median age (years)
+HC03_EST_VC35,Female; Estimate; SUMMARY INDICATORS - Median age (years)
+HC03_MOE_VC35,Female; Margin of Error; SUMMARY INDICATORS - Median age (years)
+HC01_EST_VC36,Total; Estimate; SUMMARY INDICATORS - Sex ratio (males per 100 females)
+HC01_MOE_VC36,Total; Margin of Error; SUMMARY INDICATORS - Sex ratio (males per 100 females)
+HC02_EST_VC36,Male; Estimate; SUMMARY INDICATORS - Sex ratio (males per 100 females)
+HC02_MOE_VC36,Male; Margin of Error; SUMMARY INDICATORS - Sex ratio (males per 100 females)
+HC03_EST_VC36,Female; Estimate; SUMMARY INDICATORS - Sex ratio (males per 100 females)
+HC03_MOE_VC36,Female; Margin of Error; SUMMARY INDICATORS - Sex ratio (males per 100 females)
+HC01_EST_VC37,Total; Estimate; SUMMARY INDICATORS - Age dependency ratio
+HC01_MOE_VC37,Total; Margin of Error; SUMMARY INDICATORS - Age dependency ratio
+HC02_EST_VC37,Male; Estimate; SUMMARY INDICATORS - Age dependency ratio
+HC02_MOE_VC37,Male; Margin of Error; SUMMARY INDICATORS - Age dependency ratio
+HC03_EST_VC37,Female; Estimate; SUMMARY INDICATORS - Age dependency ratio
+HC03_MOE_VC37,Female; Margin of Error; SUMMARY INDICATORS - Age dependency ratio
+HC01_EST_VC38,Total; Estimate; SUMMARY INDICATORS - Old-age dependency ratio
+HC01_MOE_VC38,Total; Margin of Error; SUMMARY INDICATORS - Old-age dependency ratio
+HC02_EST_VC38,Male; Estimate; SUMMARY INDICATORS - Old-age dependency ratio
+HC02_MOE_VC38,Male; Margin of Error; SUMMARY INDICATORS - Old-age dependency ratio
+HC03_EST_VC38,Female; Estimate; SUMMARY INDICATORS - Old-age dependency ratio
+HC03_MOE_VC38,Female; Margin of Error; SUMMARY INDICATORS - Old-age dependency ratio
+HC01_EST_VC39,Total; Estimate; SUMMARY INDICATORS - Child dependency ratio
+HC01_MOE_VC39,Total; Margin of Error; SUMMARY INDICATORS - Child dependency ratio
+HC02_EST_VC39,Male; Estimate; SUMMARY INDICATORS - Child dependency ratio
+HC02_MOE_VC39,Male; Margin of Error; SUMMARY INDICATORS - Child dependency ratio
+HC03_EST_VC39,Female; Estimate; SUMMARY INDICATORS - Child dependency ratio
+HC03_MOE_VC39,Female; Margin of Error; SUMMARY INDICATORS - Child dependency ratio
+HC01_EST_VC42,Total; Estimate; PERCENT ALLOCATED - Sex
+HC01_MOE_VC42,Total; Margin of Error; PERCENT ALLOCATED - Sex
+HC02_EST_VC42,Male; Estimate; PERCENT ALLOCATED - Sex
+HC02_MOE_VC42,Male; Margin of Error; PERCENT ALLOCATED - Sex
+HC03_EST_VC42,Female; Estimate; PERCENT ALLOCATED - Sex
+HC03_MOE_VC42,Female; Margin of Error; PERCENT ALLOCATED - Sex
+HC01_EST_VC43,Total; Estimate; PERCENT ALLOCATED - Age
+HC01_MOE_VC43,Total; Margin of Error; PERCENT ALLOCATED - Age
+HC02_EST_VC43,Male; Estimate; PERCENT ALLOCATED - Age
+HC02_MOE_VC43,Male; Margin of Error; PERCENT ALLOCATED - Age
+HC03_EST_VC43,Female; Estimate; PERCENT ALLOCATED - Age
+HC03_MOE_VC43,Female; Margin of Error; PERCENT ALLOCATED - Age
